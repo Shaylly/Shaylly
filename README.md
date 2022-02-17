@@ -1,21 +1,23 @@
 ## ☕ Ola eu me chamo Enzo, um iniciante programador  
 <div align="center">
+<a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
+<a href="https://twitter.com/Juntpack" ><img src="https://img.shields.io/twitter/follow/juntpack.svg?style=social" /> </a>
+<br>
+
+<i>A curated list of awesome Github Profile READMEs</i>
+
+<a href="https://github.com/shaylly/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shaylly/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/shaylly/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/shaylly/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/shaylly/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shaylly/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+  
+  <div align="center">
   <a href="https://github.com/Shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaylly)](https://git.io/streak-stats)"/>
-    </div>
-    <a href="https://www.youtube.com/channel/UCRTqet3jdrLlQezLNm7cbgw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/juntpack" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  	<a href="https://www.twitch.tv/juntpack" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/STysZ45typ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"  </a> 
-     <a href="https://www.reddit.com/user/Juntpack" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
-  </a> 
-     <a href="https://twitter.com/Juntpack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target"_blank">
-  </div>
-     
-     
- 
-       
+    </div> 
 
   
   
