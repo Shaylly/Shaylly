@@ -3,7 +3,7 @@
 <a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
 <a href="https://twitter.com/Juntpack" ><img src="https://img.shields.io/twitter/follow/juntpack.svg?style=social" /> </a>
 <br>
-
+  
 <i>A curated list of awesome Github Profile READMEs</i>
 
 <a href="https://github.com/shaylly/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shaylly/awesome-github-profile-readme" alt="Stars Badge"/></a>
@@ -21,18 +21,8 @@
   </div>
     <table width="100%"> 
   <tr>
-  <td width="100%">
-
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31zwdmxomh4kyz6ykvziolculaeq)
-
-  </td>
-  <td width="50%">
-
-## &nbsp;<p align="center"> 
-
-  </p>
-  </td>
-</table>
-
+  <td width="80%">
+    </div> 
+  <img height="![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=juntpack)"/>
   
   
