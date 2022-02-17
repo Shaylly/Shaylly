@@ -18,6 +18,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaylly)](https://git.io/streak-stats)"/>
     </div> 
+  </div>
+    <table width="100%"> 
+  <tr>
+  <td width="100%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31zwdmxomh4kyz6ykvziolculaeq)
+
+  </td>
+  <td width="50%">
+
+## &nbsp;<p align="center"> 
+
+  </p>
+  </td>
+</table>
 
   
   
