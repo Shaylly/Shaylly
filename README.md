@@ -3,7 +3,7 @@
 </div>
 
 
-## ☕ Ola eu me chamo Enzo, um iniciante programador 
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Olá, eu me chamo Enzo, um iniciante programador.
 <div align="center">
 <a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
 <a href="https://twitter.com/Juntpack" ><img src="https://img.shields.io/twitter/follow/juntpack.svg?style=social" /> </a>
