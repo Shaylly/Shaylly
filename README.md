@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://github.com/kitsunebishi/Wallpapers/blob/main/images/00178.png?raw=true" width="1000px" />
+</div>
+
+
 ## ☕ Ola eu me chamo Enzo, um iniciante programador  
 <div align="center">
 <a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
@@ -17,8 +22,8 @@
   
   <div align="center">
   <a href="https://github.com/Shaylly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=dark"/>
   <img height="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaylly)](https://git.io/streak-stats)"/>
       </div>
       
