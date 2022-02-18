@@ -11,7 +11,7 @@
 
 
 
-## ☕ Ola eu me chamo Enzo, um iniciante programador 
+
 <div align="center">
 <a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
 <a href="https://twitter.com/Juntpack" ><img src="https://img.shields.io/twitter/follow/juntpack.svg?style=social" /> </a>
@@ -27,7 +27,7 @@
 <a href="https://github.com/shaylly/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
   
   
- My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+ ## My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   <div align="center">
   <a href="https://github.com/Shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
