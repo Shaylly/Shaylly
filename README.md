@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/kitsunebishi/Wallpapers/blob/main/images/00178.png?raw=true" width="1000px" />
+<img src="https://cdn.discordapp.com/attachments/943986199272505384/944202658686844978/giphy.gif" width="700px" />
 </div>
 
 
