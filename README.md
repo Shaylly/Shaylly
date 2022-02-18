@@ -16,12 +16,9 @@
  
 
    
- 
-<div align="center">
-<a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
-<a href="https://twitter.com/Juntpack" ><img src="https://img.shields.io/twitter/follow/juntpack.svg?style=social" /> </a>
-<br>
-  
+ </div>
+<div align="center"> 
+ <p align="left"> <a href="https://twitter.com/juntpack" target="blank"><img src="https://img.shields.io/twitter/follow/juntpack?logo=twitter&style=for-the-badge" alt="juntpack" /></a> </p> 
 
 <a href="https://github.com/shaylly/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shaylly/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/shaylly/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/shaylly/awesome-github-profile-readme" alt="Forks Badge"/></a>
@@ -51,6 +48,3 @@
 <div align="center">
 <img src="https://i.pinimg.com/736x/76/9a/a6/769aa6d6c147ae20beef66bb9b8905bd.jpg" width="500px" />
  
- 
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/935213100448239626/944369025738244106/banner_5.png" width="1000px" />
