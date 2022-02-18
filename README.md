@@ -2,8 +2,16 @@
 <img src="https://cdn.discordapp.com/attachments/943986199272505384/944202658686844978/giphy.gif" width="700px" />
 </div>
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/shaylly/shaylly"/> 
+ <!-- <img src="https://badges.pufler.dev/years/shaylly"/> -->
+ <img src="https://badges.pufler.dev/repos/shaylly"/>
+ <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Olá, eu me chamo Enzo, um iniciante programador.
+
+
+## ☕ Ola eu me chamo Enzo, um iniciante programador 
 <div align="center">
 <a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
 <a href="https://twitter.com/Juntpack" ><img src="https://img.shields.io/twitter/follow/juntpack.svg?style=social" /> </a>
@@ -18,7 +26,6 @@
 <a href="https://github.com/shaylly/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shaylly/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/shaylly/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
   
-  ![](https://komarev.com/ghpvc/?username=shaylly-github-username&color=blueviolet)
   
  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   <div align="center">
