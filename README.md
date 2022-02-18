@@ -3,7 +3,7 @@
 </div>
 
 
-## ☕ Ola eu me chamo Enzo, um iniciante programador  
+## ☕ Ola eu me chamo Enzo, um iniciante programador 
 <div align="center">
 <a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
 <a href="https://twitter.com/Juntpack" ><img src="https://img.shields.io/twitter/follow/juntpack.svg?style=social" /> </a>
@@ -20,6 +20,7 @@
   
   ![](https://komarev.com/ghpvc/?username=shaylly-github-username&color=blueviolet)
   
+ My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   <div align="center">
   <a href="https://github.com/Shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -29,4 +30,6 @@
       
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=onedark_duo&hide_border=&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
+  ## "phrases"  
+    
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/juntpack/github-readme-quotes)
