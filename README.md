@@ -13,18 +13,15 @@
 <a href="https://github.com/shaylly/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shaylly/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/shaylly/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
   
+  ![](https://komarev.com/ghpvc/?username=shaylly-github-username&color=blueviolet)
+  
   <div align="center">
   <a href="https://github.com/Shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=merko"/>
   <img height="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaylly)](https://git.io/streak-stats)"/>
-    </div> 
-  </div>
-    <table width="100%"> 
-  <tr>
-  <td width="80%">
       </div>
-  <img height="![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=juntpack)"/>
-  
-  ![](https://komarev.com/ghpvc/?username=shaylly-github-username&color=blueviolet)
       
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=onedark_duo&hide_border=&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+  
