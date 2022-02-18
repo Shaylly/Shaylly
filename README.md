@@ -50,3 +50,7 @@
  
 <div align="center">
 <img src="https://i.pinimg.com/736x/76/9a/a6/769aa6d6c147ae20beef66bb9b8905bd.jpg" width="500px" />
+ 
+ 
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/935213100448239626/944369025738244106/banner_5.png" width="1000px" />
