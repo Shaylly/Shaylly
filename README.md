@@ -10,7 +10,7 @@
  <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
 
 <h2 align="center">
-  Status  <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2> 
+  Status ⚙️ 
 
 <div align="center">
 <a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
