@@ -10,8 +10,13 @@
  <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
 
 <h2 align="center">
-   
+ 
+ 
+ Olá eae, eu me chamo Enzo, e adoro pinguagem de programação
+ 
 
+   
+ 
 <div align="center">
 <a href="https://discord.gg/STysZ45typ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Elixir Lab - Nitro & Tutoriais&color=7289DA" alt="Elixir Lab - Nitro & Tutoriais badge"/></a>
 <a href="https://twitter.com/Juntpack" ><img src="https://img.shields.io/twitter/follow/juntpack.svg?style=social" /> </a>
