@@ -12,7 +12,7 @@
 <h2 align="center">
  
  
- Olá eae, eu me chamo Enzo, e adoro pinguagem de programação
+ Olá! Eae, eu me chamo Enzo, e adoro linguagem de programação
  
 
    
