@@ -2,12 +2,6 @@
 <img src="https://cdn.discordapp.com/attachments/943986199272505384/944202658686844978/giphy.gif" width="700px" />
 </div>
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/shaylly/shaylly"/> 
- <!-- <img src="https://badges.pufler.dev/years/shaylly"/> -->
- <img src="https://badges.pufler.dev/repos/shaylly"/>
- <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
 
 <h2 align="center">
  
@@ -38,6 +32,15 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/juntpack/github-readme-quotes)
  </div>
     <img src="https://img.wattpad.com/4b715e17d1dbefaab014bb94efa74aa5cd02cb13/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6a54313838702d58513058754d673d3d2d3939323036303931382e3136346535313735653130396631646533343538313036373838352e676966" width="100px" /> 
+
+ 
+ 
+ <div align="center">
+  <img src="https://badges.pufler.dev/visits/shaylly/shaylly"/> 
+ <!-- <img src="https://badges.pufler.dev/years/shaylly"/> -->
+ <img src="https://badges.pufler.dev/repos/shaylly"/>
+ <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
+
  
  <a href="https://github.com/shaylly/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shaylly/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/shaylly/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/shaylly/awesome-github-profile-readme" alt="Forks Badge"/></a>
