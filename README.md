@@ -83,6 +83,11 @@
  
 <img src="https://cdn.discordapp.com/attachments/732337957876269098/944289953989423195/b27c19f211696e69b14c4cc1b0acaaed.gif" width="700px" />
  
-
+ ## Browser I use/search engine/Operational system
+ 
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+ ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ 
  <hr>
  
