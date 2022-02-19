@@ -64,5 +64,5 @@
 <a href="https://github.com/shaylly/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
  
 <div align="center">
-<img src="https://i.pinimg.com/736x/76/9a/a6/769aa6d6c147ae20beef66bb9b8905bd.jpg" width="500px" />
+<img src="https://github.com/kitsunebishi/Wallpapers/blob/main/images/00198.png?raw=true" width="900px" />
  
