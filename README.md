@@ -33,7 +33,7 @@
 <div align="center"> 
 
 
-
+<hr>
   
   
  ## My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -46,7 +46,8 @@
       
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=onedark_duo&hide_border=&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
- 
+ <hr>
+   
  <div align="center">
   
   ## Information <img src="https://github.com/lostgirljourney/lostgirljourney/blob/master/assets/gifs/Developer.gif?raw=true" width="40px" />
@@ -76,5 +77,7 @@
   
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/732337957876269098/944289953989423195/b27c19f211696e69b14c4cc1b0acaaed.gif" width="700px" />
+ 
+<hr>
  
  
