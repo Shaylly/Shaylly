@@ -20,12 +20,7 @@
 <div align="center"> 
  <p align="left"> <a href="https://twitter.com/juntpack" target="blank"><img src="https://img.shields.io/twitter/follow/juntpack?logo=twitter&style=for-the-badge" alt="juntpack" /></a> </p> 
 
-<a href="https://github.com/shaylly/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shaylly/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/shaylly/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/shaylly/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/shaylly/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/shaylly/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/shaylly/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/shaylly/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/shaylly/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shaylly/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/shaylly/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
   
   
  ## My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -44,6 +39,12 @@
  </div>
     <img src="https://img.wattpad.com/4b715e17d1dbefaab014bb94efa74aa5cd02cb13/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6a54313838702d58513058754d673d3d2d3939323036303931382e3136346535313735653130396631646533343538313036373838352e676966" width="100px" /> 
  
+ <a href="https://github.com/shaylly/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shaylly/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/shaylly/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/shaylly/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/shaylly/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shaylly/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/shaylly/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
  
 <div align="center">
 <img src="https://i.pinimg.com/736x/76/9a/a6/769aa6d6c147ae20beef66bb9b8905bd.jpg" width="500px" />
