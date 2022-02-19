@@ -12,6 +12,7 @@
 > :pushpin: ***Falando sobre coisas pessoais:***
 
 <img align="right" width=250px alt="shinchan" src="https://i.pinimg.com/originals/ab/0f/1a/ab0f1a69b2095aebe3c993f8b6c7ed9f.gif" />
+
 - 🎉 Meu aniversário é dia 14/07
  
 - 😄 Sou zueiro
