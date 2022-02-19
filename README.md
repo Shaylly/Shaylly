@@ -25,7 +25,7 @@
  
  </div>
 <div align="center"> 
- <p align="left"> <a href="https://twitter.com/juntpack" target="blank"><img src="https://img.shields.io/twitter/follow/juntpack?logo=twitter&style=for-the-badge" alt="juntpack" /></a> </p> 
+
 
 
   
@@ -63,6 +63,11 @@
 <a href="https://github.com/shaylly/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shaylly/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/shaylly/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
  
+  
+  
+  
+  
+  
 <div align="center">
 <img src="https://i.pinimg.com/736x/76/9a/a6/769aa6d6c147ae20beef66bb9b8905bd.jpg" width="500px" />
  
