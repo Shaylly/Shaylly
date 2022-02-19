@@ -15,7 +15,7 @@
 <em>
     </p>
  
-   <hr>
+   
    
 > :pushpin: ***Falando sobre coisas pessoais:***
 
@@ -78,8 +78,11 @@
   
   
 <div align="center">
+ 
+ ## My day to day
+ 
 <img src="https://cdn.discordapp.com/attachments/732337957876269098/944289953989423195/b27c19f211696e69b14c4cc1b0acaaed.gif" width="700px" />
  
-<hr>
+
  
  
