@@ -6,7 +6,8 @@
 <h2 align="center">
  
  
- Olá! Eae, eu me chamo Enzo, e adoro linguagem de programação
+<img src="https://cdn.discordapp.com/attachments/935213100448239626/944384722669289492/68747470733a2f2f632e74656e6f722e636f6d2f534e4c395f78685a6c396f41414141692f776176696e672d68616e642d6a6f79706978656c732e676966.gif" width="40px" /> Hello word, eu me chamo Enzo, e adoro linguagem de programação.
+</h1>
  
 
    
@@ -31,6 +32,7 @@
     
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/juntpack/github-readme-quotes)
  </div>
+ <div align="center">
     <img src="https://img.wattpad.com/4b715e17d1dbefaab014bb94efa74aa5cd02cb13/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6a54313838702d58513058754d673d3d2d3939323036303931382e3136346535313735653130396631646533343538313036373838352e676966" width="100px" /> 
 
  
