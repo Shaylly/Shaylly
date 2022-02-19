@@ -9,12 +9,18 @@
 <img src="https://cdn.discordapp.com/attachments/935213100448239626/944384722669289492/68747470733a2f2f632e74656e6f722e636f6d2f534e4c395f78685a6c396f41414141692f776176696e672d68616e642d6a6f79706978656c732e676966.gif" width="40px" /> Hello word, eu me chamo Enzo, e adoro linguagem de programação.
 </h1>
  
-> ***Falando sobre coisas pessoais:***
+> :pushpin: ***Falando sobre coisas pessoais:***
 
-<img align="right" width=250px alt="shinchan" src="https://c.tenor.com/EzxIlpixK3EAAAAM/show-me-your-boobs-anime-girl-anime.gif" />
+<img align="right" width=250px alt="shinchan" src="https://i.pinimg.com/originals/ab/0f/1a/ab0f1a69b2095aebe3c993f8b6c7ed9f.gif" />
+- 🎉 Meu aniversário é dia 14/07
+ 
+- 😄 Sou zueiro
 
--   😄 Pronouns: Ele/dele
--   ⚡ Curiosidade: eu gosto de codificar, ouvir música, comer e blá blá blá . Eu não gosto de tudo, exceto meus gostos!
+- 😜 Gosto de mentir, mas no sentido bom
+
+- :male_sign:  Pronouns: Ele/dele
+
+- ⚡ Curiosidade: eu gosto de codificar, ouvir música, comer e blá blá blá . Eu não gosto de tudo, exceto meus gostos!
  
  </div>
 <div align="center"> 
