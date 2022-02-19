@@ -46,10 +46,7 @@
       
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=onedark_duo&hide_border=&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-  ## "phrases"  
-    
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/juntpack/github-readme-quotes)
- </div>
+ 
  <div align="center">
   
   ## Visits
