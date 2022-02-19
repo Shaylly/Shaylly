@@ -58,7 +58,7 @@
  <img src="https://badges.pufler.dev/repos/shaylly"/>
  <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
 
- 
+ <div align="center"> 
  <a href="https://github.com/shaylly/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shaylly/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/shaylly/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/shaylly/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/shaylly/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/shaylly/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
