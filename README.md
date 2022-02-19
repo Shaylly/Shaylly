@@ -21,7 +21,7 @@
 
 - 🎉 Meu aniversário é dia 14/07
  
-- 😄 Sou zueiro
+- 😄 Sou um cara, zueiro
 
 - 😜 Gosto de mentir, mas no sentido bom
 
