@@ -52,7 +52,7 @@
    
  <div align="center">
   
-  ##   <img src="https://c.tenor.com/lC8Z04gQ_kcAAAAM/vic2r-vic.gif" width="50x" /> Statistics
+  ##   <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="50x" /> Statistics
   
   <img src="https://img.wattpad.com/4b715e17d1dbefaab014bb94efa74aa5cd02cb13/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6a54313838702d58513058754d673d3d2d3939323036303931382e3136346535313735653130396631646533343538313036373838352e676966" width="100px" /> 
 
