@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/kitsunebishi/Wallpapers/blob/main/images/00016.png?raw=true" width="1000px" />
-</div>
+
 
 
 <h2 align="center">
@@ -89,12 +87,7 @@
  ## My day to day
  
 <img src="https://cdn.discordapp.com/attachments/732337957876269098/944289953989423195/b27c19f211696e69b14c4cc1b0acaaed.gif" width="700px" />
- 
- ## <img src="https://github.com/lostgirljourney/lostgirljourney/blob/master/assets/gifs/Developer.gif?raw=true" width="50px" /> Browser I use/search engine/Operational system
- 
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
- ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
  
 
  <hr>
