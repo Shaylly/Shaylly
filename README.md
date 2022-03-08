@@ -30,11 +30,7 @@
 - ⚡ Curiosidade: eu gosto de codificar, ouvir música, comer e blá blá blá . Eu não gosto de tudo, exceto meus gostos!
  
    
-    <div align="center">
-     
-     
-    ##  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-    <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+  
    
  </div>
 <div align="center"> 
