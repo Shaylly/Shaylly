@@ -57,6 +57,7 @@
    <hr>
    
    ## Minhas redes sociais 
+   <a href="https://dev.to/Shaylly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Shaylly" height="30" width="40" /></a>
    <a href="https://instagram.com/juntpack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
    <a href="https://twitter.com/juntpack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
    
