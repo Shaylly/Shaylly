@@ -62,5 +62,5 @@
   <img src="https://raw.githubusercontent.com/Shaylly/Shaylly/92aa3375fa30bd2978c461d1f71e251b47aea4a2/header.png" width="800px" />
  <hr> 
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=o+fim+da+linha;Gostou+do+meu+perfil?;Marca+como+estrela+ai;favor)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=o+fim+da+linha;Gostou+do+meu+perfil?;Marca+como+estrela+⭐+ai;favor)](https://git.io/typing-svg)
   
