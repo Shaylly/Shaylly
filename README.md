@@ -54,6 +54,12 @@
      
   "[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+   <hr>
+   
+   ## Minhas redes sociais 
+   <a href="https://instagram.com/juntpack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+   <a href="https://twitter.com/juntpack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+   
    <hr> 
    
    ## "phrases"
