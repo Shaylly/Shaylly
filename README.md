@@ -1,5 +1,5 @@
 </p align="center">
-<img src="https://github.com/kitsunebishi/Wallpapers/blob/main/images/00087.png?raw=true" width="10000px" />
+<img src="https://github.com/kitsunebishi/Wallpapers/blob/main/images/00146.png?raw=true" width="2000px" />
 
 <p align="center">
  
