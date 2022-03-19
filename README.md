@@ -68,11 +68,19 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/juntpack/github-readme-quotes)
  </div>
+ 
  <hr>
+ 
+  <div align="center">
    
- <div align="center">
-  
-  ##   
+ <!-- Markdown -->
+ 
+ ## Piadas aleatórias 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ <hr>
+     
   <img src="https://raw.githubusercontent.com/Shaylly/Shaylly/92aa3375fa30bd2978c461d1f71e251b47aea4a2/header.png" width="800px" />
  <hr> 
   
