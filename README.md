@@ -86,3 +86,4 @@
   
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=o+fim+da+linha;Gostou+do+meu+perfil?;Marca+como+estrela+⭐+ai;favor)](https://git.io/typing-svg)
   
+ <hr>
