@@ -1,5 +1,5 @@
 </p align="center">
-<img src="https://github.com/kitsunebishi/Wallpapers/blob/main/images/00146.png?raw=true" width="2000px" />
+<img src="https://blog.aulaformativa.com/wp-content/uploads/2016/06/fondos-de-pantalla-para-programadores-CodeWallpaper3-702x336.jpg" width="2000px" />
 
 <p align="center">
  
