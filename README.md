@@ -43,9 +43,6 @@
 
 <hr> 
   
- </p align="center">
-<img src="https://camo.githubusercontent.com/2929c1cec31fa7a69c4035d7114571a8b802c8979d5d09e8013e4373246f6ca5/687474703a2f2f692e696d6775722e636f6d2f3163456b614f792e706e67" width="1000px" />
-  
  ## My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   <div align="center">
   <a href="https://github.com/Shaylly">
