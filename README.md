@@ -1,7 +1,4 @@
-</p align="center">
-<img src="https://c.wallhere.com/photos/8b/8e/black_white_programming_programming_language_Python_programming-1922925.jpg!d" width="1000px" />
-<hr> 
-<img src="https://images8.alphacoders.com/115/thumb-1920-1156488.png" width="1000px" />
+
 
 
 <p align="center">
@@ -21,7 +18,6 @@
    Uma frase que me representa, " I won’t stop travelling until i’ve seen the sunset from every corner of the world. <img src="https://github.com/lostgirljourney/lostgirljourney/blob/master/assets/gifs/Earth.gif?raw=true" width="24px">" 
 <em>
     </p>
- 
    
    
 > :pushpin: ***Falando sobre coisas pessoais:***
@@ -47,6 +43,8 @@
 
 <hr> 
   
+ </p align="center">
+<img src="https://camo.githubusercontent.com/2929c1cec31fa7a69c4035d7114571a8b802c8979d5d09e8013e4373246f6ca5/687474703a2f2f692e696d6775722e636f6d2f3163456b614f792e706e67" width="1000px" />
   
  ## My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   <div align="center">
@@ -83,7 +81,16 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
  
  <hr>
-     
+  
+ ## Twitter
+ 
+ </p align="center">
+<img src="https://static.imgs.app/content/assetz/uploads/2018/08/imagens-para-whats-sua-opiniao-para-mim-e-que-nem-sutia-nao-serve-pra-nada.jpg" width="500px" /> 
+ 
+  <hr>
+ 
+ <div align="center">
+  
   <img src="https://raw.githubusercontent.com/Shaylly/Shaylly/92aa3375fa30bd2978c461d1f71e251b47aea4a2/header.png" width="800px" />
  <hr> 
   
