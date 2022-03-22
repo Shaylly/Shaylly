@@ -77,13 +77,6 @@
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
  
- <hr>
-  
- ## Twitter
- 
- </p align="center">
-<img src="https://static.imgs.app/content/assetz/uploads/2018/08/imagens-para-whats-sua-opiniao-para-mim-e-que-nem-sutia-nao-serve-pra-nada.jpg" width="500px" /> 
- 
   <hr>
  
  <div align="center">
