@@ -1,3 +1,6 @@
+
+ <h2 align="center">
+ 
 ###  Hello word. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
  
    
@@ -10,16 +13,13 @@
 - :male_sign:  Pronouns: Ele/dele
 - ⚡ Curiosidade: eu gosto de codificar, ouvir música, comer e blá blá blá . Eu não gosto de tudo, exceto meus gostos!
  
-   
- 
- 
- 
  **📚 profile information** 
    
  <img src="https://badges.pufler.dev/visits/shaylly/shaylly"/> 
  <!-- <img src="https://badges.pufler.dev/years/shaylly"/> -->
  <img src="https://badges.pufler.dev/repos/shaylly"/>
  <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
+
    
   **📙 Topics**
    
