@@ -42,7 +42,7 @@
      
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Shaylly&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Shaylly&theme=redical&hide_border=true&hide=issues,contribs&bg_color=00000000">
   </div>
 
    
