@@ -17,21 +17,23 @@
 
 
 - 🎉 Meu aniversário é dia no 14/07
-- 😄 Sou um cara, zueiro
+- 👨‍💻 Gosto de programar
 - 😜 Gosto de mentir, mas no sentido bom
 - :male_sign:  Pronouns: Ele/dele
 - ⚡ Curiosidade: eu gosto de codificar, ouvir música, comer e blá blá blá . Eu não gosto de tudo, exceto meus gostos!
  
    
-  <p align="center">
  
  
-  ### 📚 Informações 
+ 
+ **📚 profile information** 
    
  <img src="https://badges.pufler.dev/visits/shaylly/shaylly"/> 
  <!-- <img src="https://badges.pufler.dev/years/shaylly"/> -->
  <img src="https://badges.pufler.dev/repos/shaylly"/>
  <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
+   
+  **📙 Topics**
    
 <details>
   <summary><b>💻&nbsp;&nbsp;My&nbsp;Github stats</b></summary>
@@ -63,8 +65,11 @@
   <a href="https://discord.gg/python" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/31zwdmxomh4kyz6ykvziolculaeq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
-</details>
 
+ 
+</details>
+ 
+ 
 <details>
   <summary><b>📈&nbsp;&nbsp;"phrases"&nbsp;&nbsp;</b></summary>
   <br/>
@@ -76,7 +81,7 @@
 </details>
 
 <details>
-  <summary><b>🎉&nbsp;&nbsp;Piadas&nbsp;aleatórias&nbsp;</b></summary>
+  <summary><b>🌱&nbsp;&nbsp;Piadas&nbsp;aleatórias&nbsp;</b></summary>
   <br/>
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
