@@ -1,5 +1,6 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shaylly&repo=Shayllyd&countColorcountColor)
 
+
+ <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
 ###  Hello word. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
  
@@ -17,6 +18,8 @@
  
  **📚 profile information** 
    
+ ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shaylly&repo=Shayllyd&countColorcountColor)
+ 
  <!-- <img src="https://badges.pufler.dev/years/shaylly"/> -->
  <img src="https://badges.pufler.dev/repos/shaylly"/>
  <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
@@ -51,6 +54,13 @@
 <details>
   <summary><b>💬&nbsp;&nbsp;Minhas&nbsp;redes&nbsp;sociais</b></summary>
   <br/>
+ 
+ <p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif?raw=true" width="900px"></a>
+</p>
+ 
+  <div align="center"> 
+ 
    <a href="https://twitter.com/juntpack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://dev.to/Shaylly" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/python" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
