@@ -6,8 +6,7 @@
 
  
  
-  
-   Uma frase que me representa, " I won’t stop travelling until i’ve seen the sunset from every corner of the world. <img src="https://github.com/lostgirljourney/lostgirljourney/blob/master/assets/gifs/Earth.gif?raw=true" width="24px">" 
+
 
 
     
