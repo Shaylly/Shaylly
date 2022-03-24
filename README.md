@@ -10,11 +10,11 @@
 > :pushpin: ***Falando sobre coisas pessoais:***
 
 
-- 🎉 Meu aniversário é dia no 14/07
-- 👨‍💻 Gosto de programar
-- 😜 Gosto de mentir, mas no sentido bom
-- :male_sign:  Pronouns: Ele/dele
-- ⚡ Curiosidade: eu gosto de codificar, ouvir música, comer e blá blá blá . Eu não gosto de tudo, exceto meus gostos!
+- 🎉 My birthday is on the 14/07
+- 👨‍💻 I like programming
+- 😜 I like to lie, but in a good way
+- :male_sign: Pronouns: He/it
+- ⚡ Fun fact: I like to code, listen to music, eat and blah blah blah. I don't like everything except my likes!!
  
  
  
@@ -53,7 +53,7 @@
 </details> 
 
 <details>
-  <summary><b>💬&nbsp;&nbsp;Minhas&nbsp;redes&nbsp;sociais</b></summary>
+  <summary><b>💬&nbsp;&nbsp;Connect&nbsp;with&nbsp;me</b></summary>
   <br/>
  
  <p align="center">
@@ -83,7 +83,7 @@
 </details>
 
 <details>
-  <summary><b>🌱&nbsp;&nbsp;Piadas&nbsp;aleatórias&nbsp;</b></summary>
+  <summary><b>🌱&nbsp;&nbsp;Random&nbsp;jokes&nbsp;</b></summary>
   <br/>
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
