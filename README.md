@@ -46,8 +46,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=radical&hide_border=true&background=FFFFFF00">
      
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Shaylly&theme=redical&hide_border=true&hide=issues,contribs&bg_color=00000000">
+
   </div>
 
    
