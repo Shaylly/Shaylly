@@ -57,7 +57,7 @@
   <br/>
  
  <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif?raw=true" width="900px"></a>
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif?raw=true" width="700px"></a>
 </p>
  
   <div align="center"> 
