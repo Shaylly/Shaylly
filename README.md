@@ -96,10 +96,40 @@
 </details>
 
 <details>
-  <summary><b>🌱&nbsp;&nbsp;Random&nbsp;jokes&nbsp;</b></summary>
+  <summary><b>🌱&nbsp;&nbsp;Some of some reactions I have&nbsp;&nbsp;</b></summary>
   <br/>
  
-![Jokes Card](https://readme-jokes.vercel.app/api)
+  <div align="center"> 
+ 
+ ## Quando erro uma coisa e fico com raiva, porque eu não sei ajeitar: 
+ 
+  <img src="https://i.pinimg.com/736x/f5/8c/ba/f58cba67b6468e39c810c03c3b992da0.jpg" width="200px" /> <div align="center">   
+  
+ <div align="center">
+ 
+ ## Quando eu simplismente aceito, qeu eu não consigo solucionar:
+ 
+   <img src="https://i.pinimg.com/236x/a2/29/d4/a229d403178f2d7d6768cec2bc96357b.jpg" width="200px" />
+ 
+ <div align="center">
+ 
+ ## Quando eu ouço uma música incrível:
+ 
+   <img src="https://i.pinimg.com/736x/2b/8b/6c/2b8b6cbdeb7c3bd1c173af6ce2c07f45.jpg" width="200px" />
+ 
+  <div align="center"> 
+ 
+ ## Bipolar é foda alek: (Não que eu seja)
+ 
+   <img src="https://i.pinimg.com/564x/a1/c9/b9/a1c9b9da239f220b82c39e46bcc896c9.jpg" width="200px" />
+ 
+  <div align="center"> 
+ 
+ 
+ ## Como é meu café da manhã 
+ 
+   <img src="https://i.pinimg.com/564x/06/d9/66/06d966f119282a8fa2128fa24730531f.jpg" width="200px" />
+ 
 </details>
  
 
