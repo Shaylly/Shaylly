@@ -23,13 +23,10 @@
  
  
  
- **📚 profile information** 
+ **👌 See how many people have visited my profile** 
    
  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shaylly&repo=Shayllyd&countColorcountColor)
  
- <!-- <img src="https://badges.pufler.dev/years/shaylly"/> -->
- <img src="https://badges.pufler.dev/repos/shaylly"/>
- <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
  
   🔗 &nbsp;**Connect with me**
  
