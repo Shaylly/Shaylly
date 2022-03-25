@@ -62,10 +62,11 @@
   <br/>
 
 
- <div align="center"> 
-
-
+  <div align="center">
   
+  <img src="https://raw.githubusercontent.com/brunohbrito/awesome-github-stats/master/docs/banner.png" width="800px" />
+ 
+ <div align="center"> 
 
 
 <p align="center">
