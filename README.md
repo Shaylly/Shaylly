@@ -22,6 +22,7 @@
  
  
  
+ 
  **📚 profile information** 
    
  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shaylly&repo=Shayllyd&countColorcountColor)
@@ -29,8 +30,18 @@
  <!-- <img src="https://badges.pufler.dev/years/shaylly"/> -->
  <img src="https://badges.pufler.dev/repos/shaylly"/>
  <img src="https://badges.pufler.dev/commits/monthly/shaylly" />
-</div>
+ 
+  🔗 &nbsp;**Connect with me**
+ 
+   <a href="https://twitter.com/juntpack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://dev.to/Shaylly" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/python" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/31zwdmxomh4kyz6ykvziolculaeq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+ 
+ </div>
    
+ <hr>
+ 
   **📙 Topics**
    
 <details>
@@ -55,21 +66,6 @@
 
    
 </details> 
-
-<details>
-  <summary><b>💬&nbsp;&nbsp;Connect&nbsp;with&nbsp;me</b></summary>
-  <br/>
- 
- <p align="center">
-</p>
- 
-  <div align="center"> 
- 
-   <a href="https://twitter.com/juntpack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://dev.to/Shaylly" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/python" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/31zwdmxomh4kyz6ykvziolculaeq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-
 
  
 </details>
