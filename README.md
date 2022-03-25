@@ -130,14 +130,14 @@
  
    <img src="https://i.pinimg.com/564x/06/d9/66/06d966f119282a8fa2128fa24730531f.jpg" width="200px" />
  
+   (Melhor eu parar antes que eu acabe me prologando)
+ 
 </details>
  
 
  <div align="center">
   
   <img src="https://raw.githubusercontent.com/Shaylly/Shaylly/92aa3375fa30bd2978c461d1f71e251b47aea4a2/header.png" width="800px" />
-
-  
 
   
  
