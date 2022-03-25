@@ -50,7 +50,7 @@
  
  ## Github perfis
  
- Bem, eu sou uma pessoa que gosta de criar perfis diferentes e que seja bonitos e chamativos no git hub, ou em qualquer outra plataforma que consiga fazer um perfil bonito, por isso vocês podem que eu atualizo constatemente o meu perfil, tipo agora rs, seja para colocar alguma coisa ou tirar.
+ Bem, eu sou uma pessoa que gosta de criar perfis diferentes e que sejam bonitos e chamativos no git hub, ou em qualquer outra plataforma que consiga fazer um perfil bonito, por isso vocês podem que eu atualizo constatemente o meu perfil, tipo agora rs, seja para colocar alguma coisa ou tirar.
  
  <div align="center">
 <img src="https://i.ibb.co/2yN8Snp/Polish-20210607-070440649.png" alt="GitHub Logo" width="500" />
