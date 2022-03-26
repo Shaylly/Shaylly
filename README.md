@@ -79,17 +79,6 @@
    
 </details> 
 
- 
-</details>
- 
- 
-<details>
-  <summary><b>📈&nbsp;&nbsp;"phrases"&nbsp;&nbsp;</b></summary>
-  <br/>
- 
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/juntpack/github-readme-quotes)
-  </a>
- 
 
 </details>
 
