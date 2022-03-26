@@ -94,7 +94,7 @@
 </details>
 
 <details>
-  <summary><b>🌱&nbsp;&nbsp;Some of some reactions I have&nbsp;&nbsp;</b></summary>
+  <summary><b>🤡&nbsp;&nbsp;Some of some reactions I have&nbsp;&nbsp;</b></summary>
   <br/>
  
   <div align="center"> 
