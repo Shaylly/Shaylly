@@ -127,8 +127,9 @@
   
   <img src="https://raw.githubusercontent.com/Shaylly/Shaylly/92aa3375fa30bd2978c461d1f71e251b47aea4a2/header.png" width="800px" />
 
-  
+ (See this profile in the dark theme, for a better understanding and also why make it more beautiful) 
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+ 
