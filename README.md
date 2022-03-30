@@ -45,11 +45,11 @@
  
 ## Quem sou eu?
  
- Bom, eu me chamo Enzo, eu tenho 13 anos, nesse ano eu quero fazer muitas coisas, uma delas é aprender e entender sobre a linguagem de programação e assim poder me tornar uma pessoa que possa resolver problemas de outras pessoas (espero que tenha entendido).
+Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one of them is to learn and understand about the programming language and that way I can become a person who can solve other people's problems. This is my goal and I hope I can complete it
  
  ## Github perfis
  
- Bem, eu sou uma pessoa que gosta de criar perfis diferentes e que sejam bonitos e chamativos no git hub, ou em qualquer outra plataforma que consiga fazer um perfil bonito, por isso vocês podem que eu atualizo constatemente o meu perfil, tipo agora rs, seja para colocar alguma coisa ou tirar.
+Well, I'm a person who likes to create different profiles that are beautiful and flashy on git hub, or any other platform that can make a beautiful profile, so you can see that I constantly update my profile, like now lol, whether to put something in or take out.
  
  <div align="center">
 <img src="https://i.ibb.co/2yN8Snp/Polish-20210607-070440649.png" alt="GitHub Logo" width="500" />
@@ -81,47 +81,7 @@
 </details> 
 
 
-</details>
 
-<details>
-  <summary><b>🤡&nbsp;&nbsp;Some of some reactions I have&nbsp;&nbsp;</b></summary>
-  <br/>
- 
-  <div align="center"> 
- 
- ## Quando erro uma coisa e fico com raiva, porque eu não sei ajeitar: 
- 
-  <img src="https://i.pinimg.com/736x/f5/8c/ba/f58cba67b6468e39c810c03c3b992da0.jpg" width="200px" /> <div align="center">   
-  
- <div align="center">
- 
- ## Quando eu simplismente aceito, qeu eu não consigo solucionar:
- 
-   <img src="https://i.pinimg.com/236x/a2/29/d4/a229d403178f2d7d6768cec2bc96357b.jpg" width="200px" />
- 
- <div align="center">
- 
- ## Quando eu ouço uma música incrível:
- 
-   <img src="https://i.pinimg.com/736x/2b/8b/6c/2b8b6cbdeb7c3bd1c173af6ce2c07f45.jpg" width="200px" />
- 
-  <div align="center"> 
- 
- ## Bipolar é foda alek: (Não que eu seja)
- 
-   <img src="https://i.pinimg.com/564x/a1/c9/b9/a1c9b9da239f220b82c39e46bcc896c9.jpg" width="200px" />
- 
-  <div align="center"> 
- 
- 
- ## Como é meu café da manhã 
- 
-   <img src="https://i.pinimg.com/564x/06/d9/66/06d966f119282a8fa2128fa24730531f.jpg" width="200px" />
- 
-   (Melhor eu parar antes que eu acabe me prologando)
- 
-</details>
- 
 
  <div align="center">
   
