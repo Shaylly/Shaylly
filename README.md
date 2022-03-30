@@ -59,11 +59,6 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 <details>
   <summary><b>💻&nbsp;&nbsp;My&nbsp;Github stats</b></summary>
   <br/>
-
-
-  
-  
-  <img src="https://raw.githubusercontent.com/brunohbrito/awesome-github-stats/master/docs/banner.png" width="800px" />
  
 
 
