@@ -19,24 +19,29 @@
 - :male_sign: Pronouns: He/it
 - ⚡ Fun fact: I like to code, listen to music, eat and blah blah blah. I don't like everything except my likes!!
  
+ </div>
  
  
- 
-
+   <div align="center">
    
  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shaylly&repo=Shayllyd&countColorcountColor)
  
  
+</div>
+ 
+  <div align="center">
 
+| 👉🏻       |Let's connect!|   |
+|----------|:-------------:|------:|
+|[<img align="left" alt="Juntpack Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Juntpack)|[@Juntpack](https://twitter.com/Juntpack)|![Twitter Follow](https://img.shields.io/twitter/follow/Juntpack?color=blue&logo=twitter&style=for-the-badge)|
+| [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
+|[<img align="left" alt="Shaylly spotify" width="100px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](/)|[Shaylly](https://open.spotify.com/user/31zwdmxomh4kyz6ykvziolculaeq/)||
  
-   <a href="https://twitter.com/juntpack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://dev.to/Shaylly" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/python" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/31zwdmxomh4kyz6ykvziolculaeq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
- 
+ <hr>
+
  </div>
    
- <hr>
+
  
   ## Saiba mais
    
