@@ -46,6 +46,8 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  <div align="center">
 <img src="https://i.ibb.co/2yN8Snp/Polish-20210607-070440649.png" alt="GitHub Logo" width="500" />
  
+ <hr>
+ 
  </div>
  
  
@@ -59,7 +61,9 @@ Well, I'm a person who likes to create different profiles that are beautiful and
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=synthwave&hide_border=true&background=FFFFFF00">
      
-  </div>
+ <hr>
+ 
+ </div>
 
   
  
