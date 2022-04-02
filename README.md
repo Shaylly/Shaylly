@@ -23,22 +23,6 @@
    
  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shaylly&repo=Shayllyd&countColorcountColor)
  
- ### 👁️‍🗨️ my word search
-|T|h|i|n|g|s||I||💚|:|
-| - | - | - | - | - | - | - | - | - | - | - |
-|`G` | | | | | | | | | | |
-|`I` | |`E`|`N`|`Z`|`O`| | | | | |
-|`T` |`P`|`R` |`O`|`F` |`I`|`L` |`E` | | | |
-|`H`| | |`S`| | | | | | | |
-|`U`| | |`H`| | | | | | | |
-|`B`| | |`A`| | | | | | | |
-| | | |`Y`| | | | | | | |
-| | | |`L`| | | | | | | |
-| | | |`L` |`E`|`T`|`S`|`G`|`O`|
-| | | |`Y`| | |`E`| | | | |
-| | | | | | |`M`| | | | |
-|`H`|`E`|`L`|`L`|`O` |`W`|`O`|`R`|`L`|`D`| |
- 
 </div>
  
  <hr>
@@ -96,6 +80,24 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 |[<img align="left" alt="Juntpack Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Juntpack)|[@Juntpack](https://twitter.com/Juntpack)|![Twitter Follow](https://img.shields.io/twitter/follow/Juntpack?color=blue&logo=twitter&style=for-the-badge)|
 | [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
 |[<img align="left" alt="juntpack reddit" width="100px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
+ 
+ <hr>
+ 
+  ### 👁️‍🗨️ my word search
+|T|h|i|n|g|s||I||💚|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+|`G` | | | | | | | | | | |
+|`I` | |`E`|`N`|`Z`|`O`| | | | | |
+|`T` |`P`|`R` |`O`|`F` |`I`|`L` |`E` | | | |
+|`H`| | |`S`| | | | | | | |
+|`U`| | |`H`| | | | | | | |
+|`B`| | |`A`| | | | | | | |
+| | | |`Y`| | | | | | | |
+| | | |`L`| | | | | | | |
+| | | |`L` |`E`|`T`|`S`|`G`|`O`|
+| | | |`Y`| | |`E`| | | | |
+| | | | | | |`M`| | | | |
+|`H`|`E`|`L`|`L`|`O` |`W`|`O`|`R`|`L`|`D`| |
  </div>
  
  
