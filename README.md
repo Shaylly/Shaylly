@@ -82,8 +82,13 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 |[<img align="left" alt="juntpack reddit" width="100px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
  
  <hr>
+
+ </div>
  
   ### 👁️‍🗨️ my word search
+  
+   <div align="center">
+ 
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 |`G` | | | | | | | | | | |
