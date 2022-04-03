@@ -29,10 +29,7 @@
 
  </div>
    
-<details>
-<summary>
-  Saiba mais
-</summary> 
+
 
   <div align="center">
  
