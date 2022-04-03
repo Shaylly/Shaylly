@@ -106,6 +106,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 |`H`|`E`|`L`|`L`|`O` |`W`|`O`|`R`|`L`|`D`| |
  </div>
  
+ </details>
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
