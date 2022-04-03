@@ -20,7 +20,7 @@
  
  </div>
    
-## 🖐 ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
+## 👋 Hello ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
 </div>
  
