@@ -61,9 +61,9 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  
 | 💬        |Let's connect!|   |
 |----------|:-------------:|------:|
-|[<img align="left" alt="Juntpack Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Juntpack)|[@Juntpack](https://twitter.com/Juntpack)|![Twitter Follow](https://img.shields.io/twitter/follow/Juntpack?color=blue&logo=twitter&style=for-the-badge)|
+|[<img align="left" alt="Juntpack Twitter" width="100px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" />](https://twitter.com/Juntpack)|[@Juntpack](https://twitter.com/Juntpack)|![Twitter Follow](https://img.shields.io/twitter/follow/Juntpack?color=blue&logo=twitter&style=for-the-badge)|
 | [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
-|[<img align="left" alt="juntpack reddit" width="100px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
+|[<img align="left" alt="juntpack reddit" width="100px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
  
 
 </div>
