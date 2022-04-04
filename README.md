@@ -91,9 +91,17 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 |[<img align="left" alt="Juntpack Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Juntpack)|[@Juntpack](https://twitter.com/Juntpack)|![Twitter Follow](https://img.shields.io/twitter/follow/Juntpack?color=blue&logo=twitter&style=for-the-badge)|
 | [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
 |[<img align="left" alt="juntpack reddit" width="100px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
-  
-
-
+ 
+ <hr>
+ 
+</div>
+ 
+ 
+### Things that can help you.
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- STACKOVERFLOW:START --><tr><td>How to have an awesome GitHub profile ?</td><td>https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969</td></tr><tr><td>Os 5 principais requisitos para ser um bom programador</td><td>https://www.tiagogouvea.com.br/profissional/os-5-principais-requisitos-para-ser-um-bom-programador/</td></tr><tr><td>Aprender programação online, sozinho e do zero</td><td>https://www.tiagogouvea.com.br/profissional/aprender-programacao-online-sozinho-gratis-do-zero/</td></tr><tr><td>Awesome GitHub Profile README</td><td>https://github.com/abhisheknaiidu/awesome-github-profile-readme</td></tr><tr><td>Porque programadores gostam de programar?</td><td>https://www.tiagogouvea.com.br/profissional/porque-programadores-gostam-de-programar/</td></tr><!-- STACKOVERFLOW:END -->
+</table>
 
  </div>
  
