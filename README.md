@@ -11,7 +11,7 @@
  
 ## start here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
- 
+- 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🎉 My birthday is on the 14/07
 - 👨‍💻 I like programming
 - 😜 I like to lie, but in a good way
