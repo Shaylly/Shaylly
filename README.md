@@ -24,7 +24,7 @@
  
 </div>
  
- <hr>
+
 
  </div>
    
@@ -61,7 +61,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 ```
 
  
- <hr>
+
  
  </div>
  
@@ -70,13 +70,13 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
  ### 💻 My git hub stats
 
-   <div align="center">
+   
  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&count_private=true&theme=synthwave&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=synthwave&hide_border=true&background=FFFFFF00">
      
- <hr>
+
  
  </div>
 
@@ -84,7 +84,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  
  ### 🔗  Connect with me
  
-  <div align="center">
+
  
  | 👉🏻       |Let's connect!|   |
 |----------|:-------------:|------:|
@@ -92,8 +92,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 | [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
 |[<img align="left" alt="juntpack reddit" width="100px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
  
- <hr>
- 
+
 </div>
  
  
