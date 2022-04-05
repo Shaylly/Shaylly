@@ -25,6 +25,14 @@
  
  </div>
    
+  ### 🔗  Connect with me
+ 
+| 💬        |Let's connect!|   |
+|----------|:-------------:|------:|
+|[<img align="left" alt="Juntpack Twitter" width="100px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" />](https://twitter.com/Juntpack)|[@Juntpack](https://twitter.com/Juntpack)|![Twitter Follow](https://img.shields.io/twitter/follow/Juntpack?color=blue&logo=twitter&style=for-the-badge)|
+| [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
+|[<img align="left" alt="juntpack reddit" width="100px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
+ 
  👉 ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
 </div>
@@ -55,20 +63,9 @@ Well, I'm a person who likes to create different profiles that are beautiful and
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&count_private=true&theme=synthwave&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=synthwave&hide_border=true&background=FFFFFF00">
-     
-
- ### 🔗  Connect with me
- 
-| 💬        |Let's connect!|   |
-|----------|:-------------:|------:|
-|[<img align="left" alt="Juntpack Twitter" width="100px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" />](https://twitter.com/Juntpack)|[@Juntpack](https://twitter.com/Juntpack)|![Twitter Follow](https://img.shields.io/twitter/follow/Juntpack?color=blue&logo=twitter&style=for-the-badge)|
-| [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
-|[<img align="left" alt="juntpack reddit" width="100px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
- 
 
 </div>
- 
- 
+  
 ### Things that can help you.
 <table>
   <tr><th>Title</th><th>Link</th></tr>
