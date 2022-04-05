@@ -20,6 +20,14 @@
  
  </div>
    
+  ### 🔗  Conecte-se comigo
+ 
+| 💬        |Vamos nos conectar!|   |
+|----------|:-------------:|------:|
+|[<img align="left" alt="Juntpack Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Juntpack)|[@Juntpack](https://twitter.com/Juntpack)|![Twitter Follow](https://img.shields.io/twitter/follow/Juntpack?color=blue&logo=twitter&style=for-the-badge)|
+| [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
+|[<img align="left" alt="juntpack reddit" width="100px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
+ 
  👉 ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
 </div>
@@ -51,15 +59,6 @@ Bom, eu sou uma pessoa que gosta de criar perfis diferentes que sejam lindos e c
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=synthwave&hide_border=true&background=FFFFFF00">
      
-
- ### 🔗  Conecte-se comigo
- 
-| 💬        |Vamos nos conectar!|   |
-|----------|:-------------:|------:|
-|[<img align="left" alt="Juntpack Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Juntpack)|[@Juntpack](https://twitter.com/Juntpack)|![Twitter Follow](https://img.shields.io/twitter/follow/Juntpack?color=blue&logo=twitter&style=for-the-badge)|
-| [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
-|[<img align="left" alt="juntpack reddit" width="100px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
- 
 
 </div>
  
