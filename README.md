@@ -47,26 +47,47 @@
  
   ### Obout me 🤙
    
+ <hr>
   </div>
  
  ### Who am I?
 
-Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one of them is to learn and understand about the programming language and that way I can become a person who can solve other people's problems. This is my goal and I hope I can complete it
+> Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one of them is to learn and understand about the programming language and that way I can  become a person who can solve other people's problems. This is my goal and I hope I can complete it
  
  ### Github profiles
  
-Well, I'm a person who likes to create different profiles that are beautiful and flashy on git hub, or any other platform that can make a beautiful profile, so you can see that I constantly update my profile, like now lol, whether to put something in or take out.
+> Well, I'm a person who likes to create different profiles that are beautiful and flashy on git hub, or any other platform that can make a beautiful profile, so you  can see that I constantly update my profile, like now lol, whether to put something in or take out.
  
 
  ### 💻 My github stats
  
+ <hr>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&count_private=true&theme=synthwave&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=synthwave&hide_border=true&background=FFFFFF00">
 
 </div>
+ 
+ ### 🌎 Overview
+<hr>
+
+<!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 227 Contributions in the Year 2022
+ >
+> 📦 229.7 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
   
 ### Things that can help you.
+ 
+ <hr>
 <table>
   <tr><th>Title</th><th>Link</th></tr>
   <!-- STACKOVERFLOW:START --><tr><td>How to have an awesome GitHub profile?</td><td>https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969</td></tr><tr><td>Os 5 principais requisitos para ser um bom programador</td><td>https://www.tiagogouvea.com.br/profissional/os-5-principais-requisitos-para-ser-um-bom-programador/</td></tr><tr><td>Aprender programação online, sozinho e do zero</td><td>https://www.tiagogouvea.com.br/profissional/aprender-programacao-online-sozinho-gratis-do-zero/</td></tr><tr><td>Awesome GitHub Profile README</td><td>https://github.com/abhisheknaiidu/awesome-github-profile-readme</td></tr><tr><td>Porque programadores gostam de programar?</td><td>https://www.tiagogouvea.com.br/profissional/porque-programadores-gostam-de-programar/</td></tr><!-- STACKOVERFLOW:END -->
