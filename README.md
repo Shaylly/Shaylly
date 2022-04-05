@@ -47,7 +47,7 @@
  
   ### Obout me 🤙
    
- <hr>
+
   </div>
  
  ### Who am I?
@@ -74,15 +74,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 227 Contributions in the Year 2022
+> 🏆 +300 Contributions in the Year 2022
  >
-> 📦 229.7 kB Used in GitHub's Storage 
+> 📦 100.7 kB Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
+> 📜 1 Public Repositories 
  > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 1 Private Repository 
+> 🔑 5 Private Repository 
  > 
   
 ### Things that can help you.
