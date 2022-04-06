@@ -1,12 +1,3 @@
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
- <div align="center">
-  
-## My perfil 
-## && From Github &&
- </div>
- </div>
-
 <table align="right">
  <tr><td><a href="README.md">English</a></td></tr>
  <tr><td><a href="README_pt.md">Português</a></td></tr>
