@@ -6,7 +6,7 @@ Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one
  
 Well, I'm a person who likes to create different profiles that are beautiful and flashy on git hub, or any other platform that can make a beautiful profile, so you  can see that I constantly update my profile, like now lol, whether to put something in or take out.
  
- <hr>
+
 
 <table align="right">
  <tr><td><a href="README.md">English</a></td></tr>
