@@ -75,7 +75,7 @@
  > 
 > 📜 1 Repositório público
  > 
-> 🔑 5 Repositório Privado
+> 🔑 7 Repositório Privado
  > 
   
  
