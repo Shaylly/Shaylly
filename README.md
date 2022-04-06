@@ -88,6 +88,11 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 > 🔑 7 Private Repository 
  > 
  
+ ### 🏆 Github Profile Trophy
+ 
+ <img width=900 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=onedark&no-frame=true"/>
+</a>
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
