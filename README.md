@@ -80,7 +80,7 @@
  > 
 > 📜 1 Public Repositories 
  > 
-> 🔑 5 Private Repository 
+> 🔑 7 Private Repository 
  > 
  
 <p align="center">
