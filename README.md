@@ -62,9 +62,13 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  ### 💻 My github stats
  
  <hr>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Shaylly&show_icons=true&count_private=true&theme=synthwave&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&hide_border=true&theme=synthwave&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=synthwave&hide_border=true&background=FFFFFF00">
+ 
+<div align="center">
+  <a href="https://github.com/shaylly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=dark"/>
+ <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=dark&hide">
+ </div>
 
 </div>
  
