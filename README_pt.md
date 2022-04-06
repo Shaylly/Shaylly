@@ -46,11 +46,11 @@
  
  ### Quem sou eu?
 
-> Bom, meu nome é Enzo, tenho 13 anos, este ano quero fazer muitas coisas, uma delas é aprender e entender sobre a linguagem de programação e assim posso me tornar uma pessoa que pode resolver os problemas de outras pessoas. Este é o meu objetivo e espero poder completá-lo
+Bom, meu nome é Enzo, tenho 13 anos, este ano quero fazer muitas coisas, uma delas é aprender e entender sobre a linguagem de programação e assim posso me tornar uma pessoa que pode resolver os problemas de outras pessoas. Este é o meu objetivo e espero poder completá-lo
  
  ### Perfis do Github
  
-> Bom, eu sou uma pessoa que gosta de criar perfis diferentes que sejam lindos e chamativos no git hub, ou qualquer outra plataforma que consiga fazer um perfil bonito, então vocês podem ver que eu atualizo constantemente meu perfil, como agora rsrs, seja para colocar algo ou tirar.
+Bom, eu sou uma pessoa que gosta de criar perfis diferentes que sejam lindos e chamativos no git hub, ou qualquer outra plataforma que consiga fazer um perfil bonito, então vocês podem ver que eu atualizo constantemente meu perfil, como agora rsrs, seja para colocar algo ou tirar.
  
 
  ### 💻 Estatísticas do meu git hub
