@@ -81,7 +81,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
   <img src="https://badges.pufler.dev/commits/all/shaylly" alt="UpdatedBadge"  /> 
  
  
- ### 🏆 Github Profile Trophy
+ ### 🏆 My Github trophies
  
  <img width=900 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=onedark&no-frame=true"/>
 </a>
