@@ -14,7 +14,7 @@
 
  <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
-## start here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+# start here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🎉 My birthday is on the 14/07
@@ -37,15 +37,15 @@
  
 </div>
  
-
+<hr>
 
  </div>
    
 
 
-  <div align="center">
+
  
-  ### Obout me 🤙
+  # Obout me 🤙
    
 
   </div>
@@ -59,7 +59,7 @@ Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one
 Well, I'm a person who likes to create different profiles that are beautiful and flashy on git hub, or any other platform that can make a beautiful profile, so you  can see that I constantly update my profile, like now lol, whether to put something in or take out.
  
 
- ### 💻 My github stats
+ # 💻 My github stats
  
   <br>
 <div>
