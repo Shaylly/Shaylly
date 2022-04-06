@@ -53,14 +53,6 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
  ## 💻 My github stats
  
-  <br>
-<div>
-  <img src="https://badges.pufler.dev/years/shaylly" alt="Years Badge"  /> 
-  <img src="https://badges.pufler.dev/repos/shaylly" alt="Gyan's Repos Badge"  /> 
-  <img src="https://badges.pufler.dev/commits/monthly/shaylly" alt="UpdatedBadge"  /> 
-  <img src="https://badges.pufler.dev/commits/all/shaylly" alt="UpdatedBadge"  /> 
- 
- 
  <div align="center">
  
   <a href="https://github.com/shaylly">
@@ -73,7 +65,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  
  ### 🌎 Overview
 <hr>
-
+ 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
@@ -85,6 +77,17 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  > 
 > 🔑 7 Private Repository 
  > 
+
+ </div>
+ 
+   <br>
+<div>
+ 
+  <img src="https://badges.pufler.dev/years/shaylly" alt="Years Badge"  /> 
+  <img src="https://badges.pufler.dev/repos/shaylly" alt="Gyan's Repos Badge"  /> 
+  <img src="https://badges.pufler.dev/commits/monthly/shaylly" alt="UpdatedBadge"  /> 
+  <img src="https://badges.pufler.dev/commits/all/shaylly" alt="UpdatedBadge"  /> 
+ 
  
  ### 🏆 Github Profile Trophy
  
