@@ -52,11 +52,11 @@
  
  ### Who am I?
 
-> Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one of them is to learn and understand about the programming language and that way I can  become a person who can solve other people's problems. This is my goal and I hope I can complete it
+Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one of them is to learn and understand about the programming language and that way I can  become a person who can solve other people's problems. This is my goal and I hope I can complete it
  
  ### Github profiles
  
-> Well, I'm a person who likes to create different profiles that are beautiful and flashy on git hub, or any other platform that can make a beautiful profile, so you  can see that I constantly update my profile, like now lol, whether to put something in or take out.
+Well, I'm a person who likes to create different profiles that are beautiful and flashy on git hub, or any other platform that can make a beautiful profile, so you  can see that I constantly update my profile, like now lol, whether to put something in or take out.
  
 
  ### 💻 My github stats
