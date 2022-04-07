@@ -86,9 +86,11 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  <img width=900 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=onedark&no-frame=true"/>
 </a>
  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+ ### 🐍 My Contribution Graph
+ 
+  ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
   
  <kbd>2022-04</kbd>
+
+ 
