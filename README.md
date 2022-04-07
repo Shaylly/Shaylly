@@ -10,10 +10,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  
 <hr>
 
-<table align="right">
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="README_pt.md">Português</a></td></tr>
-</table>
+
 
  ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
