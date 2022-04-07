@@ -1,4 +1,4 @@
- <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+# About me
 
 ### Who am I?
 
@@ -8,23 +8,16 @@ Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one
  
 Well, I'm a person who likes to create different profiles that are beautiful and flashy on git hub, or any other platform that can make a beautiful profile, so you  can see that I constantly update my profile, like now lol, whether to put something in or take out.
  
-<hr>
-
-
-
- ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🎉 My birthday is on the 14/07
-- 👨‍💻 I like programming
-- 😜 I like to lie, but in a good way
-- :male_sign: Pronouns: He/it
-- ⚡ Fun fact: I like to code, listen to music, eat and blah blah blah. I don't like everything except my likes!!
+ <hr>
  
  </div>
+ 
+ ### Connect with me
+ 
    <a href="https://twitter.com/Juntpack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    <a href="https://dev.to/shaylly" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 
+### Visits to my profile
  
  ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
