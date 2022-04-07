@@ -1,4 +1,6 @@
- ### Who am I?
+ <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+### Who am I?
 
 Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one of them is to learn and understand about the programming language and that way I can  become a person who can solve other people's problems. This is my goal and I hope I can complete it
  
@@ -13,9 +15,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  <tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
 
- <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
- 
-## start here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+ ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🎉 My birthday is on the 14/07
@@ -43,7 +43,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  </div>
    
 
- ## 💻 My github stats
+ ### 💻 My github stats
  
  <div align="center">
  
