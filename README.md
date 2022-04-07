@@ -26,7 +26,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  
  </div>
    
-  ### 🔗  Connect with me
+
  
 | 💬        |Let's connect!|   |
 |----------|:-------------:|------:|
@@ -34,7 +34,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 | [<img align="left" alt="Shaylly DEV.TO" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/shaylly/) |  [Shaylly](https://dev.to/shaylly/) |  |
 |[<img align="left" alt="juntpack reddit" width="100px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg" />](https://www.reddit.com/user/Juntpack/)|[juntpack](https://www.reddit.com/user/Juntpack/)||
  
- 👉 ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
 </div>
  
