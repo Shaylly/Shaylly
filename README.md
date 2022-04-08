@@ -68,7 +68,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  
  ### 🏆 My trophies
  
- <img width=900 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=algolia&no-frame=true"/>
+ <img width=900 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=matrix&no-frame=true"/>
 </a>
  
  ### 🐍 My Contribution Graph
