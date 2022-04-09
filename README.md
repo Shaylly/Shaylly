@@ -31,9 +31,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  <div align="center">
  
   <a href="https://github.com/shaylly">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=tokyonight"/>
- <img  height="120em" src="https://github-readme-streak-stats.herokuapp.com?user=Shaylly&theme=tokyonight&hide">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  </div>
 
 </div>
