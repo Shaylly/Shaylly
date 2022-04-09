@@ -15,7 +15,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
  ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
- <hr>
+
  
 
 ![Metrics](https://metrics.lecoq.io/Shaylly?template=classic&base.community=0&isocalendar=1&activity=1&achievements=1&introduction=1&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=America%2FSao_Paulo)
