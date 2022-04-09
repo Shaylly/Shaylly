@@ -1,5 +1,5 @@
 
-# 👋 About me
+# 👋 Hi everyone
 
 ### Who am I?
 
@@ -16,6 +16,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
 ![Metrics](https://metrics.lecoq.io/Shaylly?template=classic&base.community=0&isocalendar=1&activity=1&achievements=1&introduction=1&isocalendar.duration=half-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=America%2FSao_Paulo)
 
+ <div align="center">
  
    <a href="https://twitter.com/Juntpack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    <a href="https://dev.to/shaylly" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
@@ -37,10 +38,12 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
 </div>
 
+  <div align="center">
  
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
-  
+ </div> 
+ 
  <kbd>2022-04</kbd>
 
  
