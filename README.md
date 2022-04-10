@@ -22,8 +22,12 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
  
  </div>
- 
-</div>
+
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=shaylly&theme=redical">
+</p> 
+
 
   <div align="center">
  
