@@ -1,6 +1,6 @@
 
  <div align="center">
-<img src="https://github.com/kitsunebishi/Wallpapers/blob/main/images/00016.png?raw=true" width="800px" />
+<img src="https://github.com/kitsunebishi/Wallpapers/blob/main/images/00016.png?raw=true" width="1000px" />
   
   </div>
 
