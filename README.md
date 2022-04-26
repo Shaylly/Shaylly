@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://i.pinimg.com/564x/84/74/a7/8474a774c7c0d5fce5977d069bfa4472.jpg" width="500px" />
+  
+  </div>
+ 
 # 👋 Hi everyone
 
  <p align="left">
@@ -15,7 +20,14 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
 
+ <div align="center">
+  <a href="https://github.com/shaylly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
+ </div>
+  
  <details>
   <summary><b>✨&nbsp;&nbsp;&nbsp;</b></summary>
   <br/>
