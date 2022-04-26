@@ -24,8 +24,13 @@ Well, I'm a person who likes to create different profiles that are beautiful and
   <a href="https://github.com/shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
+
+   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=darkhub&no-frame=true"/>
+</a>
+    
+  
+   
+   
  </div>
   
  <details>
