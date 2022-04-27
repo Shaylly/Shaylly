@@ -19,8 +19,12 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
  ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
+  <div align="center">
+  
+  ### 🎶🎶🎶
+  
    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zwdmxomh4kyz6ykvziolculaeq)
-
+    
  <div align="center">
   <a href="https://github.com/shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -31,7 +35,7 @@ Well, I'm a person who likes to create different profiles that are beautiful and
    
    
  </div>
- 
+ </div>
   
  <details>
   <summary><b>📌&nbsp;&nbsp;&nbsp;</b></summary>
