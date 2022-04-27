@@ -32,9 +32,6 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  </div>
  </div>
   
- <details>
-  <summary><b>📌&nbsp;&nbsp;&nbsp;</b></summary>
-  <br/>
 
   <div align="center"
   
@@ -44,7 +41,6 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  
  </div>
 
-</details> 
 
   <div align="center">
  
