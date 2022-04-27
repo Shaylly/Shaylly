@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://i.pinimg.com/564x/84/74/a7/8474a774c7c0d5fce5977d069bfa4472.jpg" width="500px" />
-  
-  </div>
- 
 # 👋 Hi everyone
 
  <p align="left">
