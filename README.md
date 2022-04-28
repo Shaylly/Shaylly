@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://c.tenor.com/6LyXLgF8ksUAAAAd/anime-gif.gif" width="600px" />
+<img src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-25.gif" width="1000px" />
 
  </div>
  
