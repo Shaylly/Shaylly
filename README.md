@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-25.gif" width="1000px" />
+<img src="https://c.tenor.com/zeJ_kgvD6nMAAAAC/white-tree.gif" width="1000px" />
 
  </div>
  
@@ -29,10 +29,10 @@ Well, I'm a person who likes to create different profiles that are beautiful and
     
  <div align="center">
   <a href="https://github.com/shaylly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=dark"/>
 
-   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=darkhub&no-frame=true"/>
+   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=oldie&no-frame=true"/>
 </a>
    
    
