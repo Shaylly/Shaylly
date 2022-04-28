@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://c.tenor.com/6LyXLgF8ksUAAAAd/anime-gif.gif" width="600px" />
+
+ </div>
+ 
 # 👋 Hi everyone
 
  <p align="left">
