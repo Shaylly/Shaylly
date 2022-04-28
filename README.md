@@ -19,13 +19,6 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
  ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
- <hr>
- 
-  <div align="center">
-  
-  ### 🎶🎶🎶
-  
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zwdmxomh4kyz6ykvziolculaeq)
     
  <div align="center">
   <a href="https://github.com/shaylly">
