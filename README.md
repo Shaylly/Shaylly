@@ -29,6 +29,6 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 </a>
 
  
-  ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
+ 
 
  
