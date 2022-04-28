@@ -19,16 +19,11 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
  ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
 
- 
  <div align="center">
-  
-  ### 💻💻💻
   
   <a href="https://github.com/shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=dark"/>
-
-  ### 🔌🔌🔌
    
    <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=onestar&no-frame=true"/>
 </a>
