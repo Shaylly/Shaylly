@@ -18,17 +18,22 @@ Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one
 Well, I'm a person who likes to create different profiles that are beautiful and flashy on git hub, or any other platform that can make a beautiful profile, so you  can see that I constantly update my profile, like now lol, whether to put something in or take out.
 
  ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
+
  
-    
  <div align="center">
+  
+  ### 💻💻💻
+  
   <a href="https://github.com/shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=dark"/>
 
+  ### 🏆🏆🏆
+   
    <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=oldie&no-frame=true"/>
 </a>
 
- 
+  ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
 
  
