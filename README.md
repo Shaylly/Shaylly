@@ -27,22 +27,8 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
    <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=oldie&no-frame=true"/>
 </a>
-   
-   
- </div>
- </div>
-  
 
- 
- </div>
-
-
-  <div align="center">
  
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
- 
- </div> 
- 
- <kbd>2022-04</kbd>
 
  
