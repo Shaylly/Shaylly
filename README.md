@@ -7,8 +7,7 @@
 
  <p align="left">
 <a href="https://dev.to/Shaylly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Shaylly" height="30" width="40" /></a>
-<a href="https://twitter.com/juntpack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
- 
+
 - ### Who am I?
 
 Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one of them is to learn and understand about the programming language and that way I can  become a person who can solve other people's problems. This is my goal and I hope I can complete it
