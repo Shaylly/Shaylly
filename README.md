@@ -1,13 +1,23 @@
-<div align="center">
-<img src="https://c.tenor.com/zeJ_kgvD6nMAAAAC/white-tree.gif" width="1000px" />
+
 
  </div>
  
 # 👋 Hi everyone
 
- <p align="left">
-<a href="https://dev.to/Shaylly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Shaylly" height="30" width="40" /></a>
-
+ 
+ # About me
+ 
+ <img align="right" width=450px alt="shinchan" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif" />
+ 
+ - 🔭 I’m currently working on something cool 😉
+- 🎉 My birthday is on the 14/07
+- 👨‍💻 I like programming
+- 😜 I like to lie, but in a good way
+- ♂️ Pronouns: He/it
+- ⚡ Fun fact: I like to code, listen to music, eat and blah blah blah. I don't like everything except my likes!!
+ 
+<hr>
+ 
 - ### Who am I?
 
 Well, my name is Enzo, I'm 13 years old, this year I want to do many things, one of them is to learn and understand about the programming language and that way I can  become a person who can solve other people's problems. This is my goal and I hope I can complete it
