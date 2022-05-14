@@ -6,7 +6,7 @@
 # 👋 Hi everyone
 
  
- # About me
+ # 👨‍💻 About me
  
  <img align="right" width=450px alt="shinchan" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif" />
  
