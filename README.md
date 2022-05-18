@@ -29,9 +29,6 @@ Well, I'm a person who likes to create different profiles that are beautiful and
 
  ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
  
- <hr>
-
-
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
 
