@@ -31,14 +31,6 @@ Well, I'm a person who likes to create different profiles that are beautiful and
  
  <hr>
 
- <div align="center">
-  
-  <a href="https://github.com/shaylly">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&langs_count=7&theme=swift"/>
-   
-   <img width=800 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=onestar&no-frame=true"/>
-</a>
 
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
