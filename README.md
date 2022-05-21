@@ -53,6 +53,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
  
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zwdmxomh4kyz6ykvziolculaeq)
 
+ </details>
  
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
