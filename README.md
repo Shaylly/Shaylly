@@ -1,5 +1,14 @@
  <div align="center">
-<img src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-25.gif" width="1000px" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+ 
+ 
+ <div align="center">
+ 
+ # Hi this is my github profile.
+  
+  <hr>
+ 
+ </div>
  
 </div>
  
@@ -8,9 +17,6 @@
  
  # 👨‍💻 About me
  
- <img align="right" width=450px alt="shinchan" src="https://pa1.narvii.com/6385/5024d9730cbc9b86fae5d49293e865ad998306c6_hq.gif" />
- 
- - 🔭 I’m currently working on something cool 😉
 - 🎉 My birthday is on the 14/07
 - 👨‍💻 I like programming
 - 😜 I like to lie, but in a good way
