@@ -4,21 +4,28 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
 
  Well, I'm a person who likes to create different profiles that are beautiful and flashy in git hub, or any other platform that can make a beautiful profile, so you can see that I constantly update my profile, like now lol, whether to put something or take away.
  Learning English is also essential for me, as I'm Brazilian, but that's just a matter of time.
-          
- <hr>
-
- Tópics:
- 
- - Readme starts
- - My trofeus
-
- 
- <hr>
-
- 📕 &nbsp;**Latest Blog Posts**
+         
+📕 &nbsp;**Latest Blog Posts**
  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
  - [Git e Github na prática!](https://dev.to/shaylly/git-e-github-na-pratica-fdl)
- <!-- BLOG-POST-LIST:END -->
+ <!-- BLOG-POST-LIST:END -->         
+
+<hr>
+
+ # Tópics:
+ 
+ <details>
+ <summary><b>🛠️&nbsp;&nbsp;Readme Starts</b></summary>
+ <br/>
+
+ <div align="center">
+  <a href="https://github.com/shaylly">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shaylly&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
+</p> 
+   
+ </details> 
+ 
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
 
