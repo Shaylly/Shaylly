@@ -21,9 +21,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
  <div align="center">
   <a href="https://github.com/shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shaylly&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
-</p> 
-   
+ 
  </details> 
  
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
