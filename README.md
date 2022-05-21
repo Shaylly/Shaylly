@@ -18,7 +18,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
  <summary><b>🛠️&nbsp;&nbsp;Readme Starts</b></summary>
  <br/>
 
- <div align="center">
+
   <a href="https://github.com/shaylly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
