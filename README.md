@@ -45,7 +45,14 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
  
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
  
- </details> 
+ </details>
+ 
+  <details>
+ <summary><b>🎶🎶🎶&nbsp;&nbsp;</b></summary>
+ <br/>
+ 
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zwdmxomh4kyz6ykvziolculaeq)
+
  
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
