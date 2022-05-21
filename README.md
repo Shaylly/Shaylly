@@ -13,10 +13,12 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
  - My trofeus
 
  
-<r
+ <hr>
 
- 
- 
+ 📕 &nbsp;**Latest Blog Posts**
+ <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+ - [Git e Github na prática!](https://dev.to/shaylly/git-e-github-na-pratica-fdl)
+ <!-- BLOG-POST-LIST:END -->
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
 
