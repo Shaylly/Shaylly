@@ -22,7 +22,9 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
 
 <hr>
 
- # Tópics:
+ # Come and see here some information from my profile, following some important topics.
+ 
+ </div>
  
  <details>
  <summary><b>🛠️&nbsp;My Github&nbsp;Stats</b></summary>
@@ -60,8 +62,6 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
  </details>
   
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
- 
- <hr>
  
  <div align="center">
 
