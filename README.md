@@ -59,6 +59,9 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
 
  </details>
  
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
 
