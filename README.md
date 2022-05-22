@@ -2,8 +2,6 @@
  
 ## *[Login: February 15, 2022...](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)*
  
-  ![Visitor Count](https://profile-counter.glitch.me/shaylly/count.svg)
-
  </div>
  
   <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
@@ -68,4 +66,6 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
  
+ <div align="center">
  
+ # ⭐⭐⭐
