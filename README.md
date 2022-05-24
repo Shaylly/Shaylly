@@ -1,6 +1,4 @@
-
- 
-  <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
 # 👨‍💻 About me
 
@@ -18,45 +16,14 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
 
 <hr>
 
-
- 
- </div>
- 
- <details>
- <summary><b>🛠️&nbsp;My Github&nbsp;Stats</b></summary>
- <br/>
-
-
- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
- </details> 
- 
-   <details>
- <summary><b>🏆&nbsp;Github profile&nbsp;trofhy</b></summary>
- <br/>
  
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=onestar&no-frame=true"/>
 </a>
 
- </details> 
- 
-  <details>
-  <summary><b>🎦&nbsp;Github readme&nbsp;quotes</b></summary>
-  <br/>
- 
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
  
- </details>
  
-  <details>
- <summary><b>📉📈&nbsp;My Contribution Graph&nbsp;</b></summary>
- <br/>
-
- <a href="https://github.com/shaylly"><img alt="Shaylly's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shaylly&custom_title=shaylly%27s%20Contribution%20Graph&theme=react-dark" /></a>
-
- </details>
-  
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
 
