@@ -20,11 +20,11 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
   <summary><b>🎲&nbsp;&nbsp;More&nbsp;and&nbsp;things</b></summary>
   <br/>
  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
  </div>
  
-  <img width=700 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=onestar&no-frame=true"/>
+  <img width=700 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=dracula&no-frame=true"/>
 </a>
 
  </div>
