@@ -1,6 +1,8 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
 # 👨‍💻 About me
+ 
+ ![](https://komarev.com/ghpvc/?username=your-github-shaylly)
 
  [Twitter](https://twitter.com/Juntpack) • [Dev.to](https://dev.to/shaylly)
 
