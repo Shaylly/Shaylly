@@ -1,8 +1,6 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
 # 👨‍💻 About me
- 
- ![](https://komarev.com/ghpvc/?username=your-github-shaylly)
 
  [Twitter](https://twitter.com/Juntpack) • [Dev.to](https://dev.to/shaylly)
 
@@ -37,5 +35,5 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
 
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
-
+ ![](https://komarev.com/ghpvc/?username=your-github-shaylly)
  
