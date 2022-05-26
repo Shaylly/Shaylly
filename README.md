@@ -20,24 +20,11 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
  - [Git e Github na prática!](https://dev.to/shaylly/git-e-github-na-pratica-fdl)
  <!-- BLOG-POST-LIST:END -->         
 
-<hr>
- 
-<details>
-  <summary><b>🎲&nbsp;&nbsp;More&nbsp;and&nbsp;things</b></summary>
-  <br/>
- 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
- </div>
- 
-  <img width=700 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=dracula&no-frame=true"/>
-</a>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
  </div>
  
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
- 
- </details>
+
 
   ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
