@@ -24,9 +24,11 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
 
  </div>
  
+![Metrics](https://metrics.lecoq.io/shaylly?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+ 
+ ![Metrics](https://metrics.lecoq.io/shaylly?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo)
 
-
-  ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
+  
  
  ![](https://komarev.com/ghpvc/?username=your-github-shaylly)
  
