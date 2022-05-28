@@ -7,7 +7,7 @@
  
 # 👨‍💻 About me
 
- [Twitter](https://twitter.com/Juntpack) • [Dev.to](https://dev.to/shaylly)
+ [My Twitter](https://twitter.com/Juntpack) • [My Dev.to](https://dev.to/shaylly) • [My Reddit](https://www.reddit.com/user/Juntpack)
 
 Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub profile.** Here you will see information about my profile. The idea of me wanting to be a programmer is very broad, because I love programming and I want to do that several, so I want to learn the basics until I become someone who knows how to program and do incredible things.
 
