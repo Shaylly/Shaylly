@@ -19,7 +19,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
  - [Git e Github na prática!](https://dev.to/shaylly/git-e-github-na-pratica-fdl)
  <!-- BLOG-POST-LIST:END -->         
 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 
  </div>
 
