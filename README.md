@@ -1,8 +1,6 @@
 <!-- <p align="center">
  My Perfil
 </p>   -->
-<div>
-
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
  </div>
@@ -27,3 +25,8 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
  
 ![Metrics](https://metrics.lecoq.io/shaylly?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base.indepth=false&stars.limit=4&config.timezone=America%2FSao_Paulo)
  
+ </div>
+
+<!-- <p align="center">
+ The end
+</p>   -->
