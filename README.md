@@ -22,13 +22,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
  </div>
- 
-![Metrics](https://metrics.lecoq.io/shaylly?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base.indepth=false&stars.limit=4&config.timezone=America%2FSao_Paulo)
- 
- </div>
 
 <!-- <p align="center">
  The end
 </p>   -->
- 
- <hr>
