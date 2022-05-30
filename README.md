@@ -20,11 +20,15 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
  </div>
+ 
+ <div align="center">
+ 
+> 📌 My social networks 📌
 
  [My Twitter](https://twitter.com/Juntpack) • [My Dev.to](https://dev.to/shaylly) • [My Reddit](https://www.reddit.com/user/Juntpack)
  
   </div>
  
 <!-- <p align="center">
- The end
+ The end, thanks for visit.
 </p>   -->
