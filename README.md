@@ -26,5 +26,5 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
 
  [My Twitter](https://twitter.com/Juntpack) • [My Dev.to](https://dev.to/shaylly) • [My Reddit](https://www.reddit.com/user/Juntpack)
  
- The end, thanks for visit.
+ _The end, thanks for visit._
 
