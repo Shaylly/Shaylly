@@ -1,9 +1,7 @@
 <!-- <p align="center">
- My Perfil
+ My Perfil from do github
 </p>   -->
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
- 
- </div>
+
  
 # 👨‍💻 About me
 
@@ -27,8 +25,5 @@ Hello how are you? My name is Enzo, I'm 13 years old, this is **my Git Hhub prof
 
  [My Twitter](https://twitter.com/Juntpack) • [My Dev.to](https://dev.to/shaylly) • [My Reddit](https://www.reddit.com/user/Juntpack)
  
-  </div>
- 
-<!-- <p align="center">
  The end, thanks for visit.
-</p>   -->
+
