@@ -2,6 +2,9 @@
  My Perfil from do github
 </p>   -->
 
+ <div align="center">
+<img src="https://i.pinimg.com/564x/f8/5e/d7/f85ed761a9a2fd504c33554075cec0ea.jpg" width="500px" />
+
  </div>
  
 # 👨‍💻 About me
@@ -27,7 +30,3 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  [My Twitter](https://twitter.com/Juntpack) • [My Dev.to](https://dev.to/shaylly) • [My Reddit](https://www.reddit.com/user/Juntpack)
  
  _The end, thanks for visit._
-
- <div align="center">
-<img src="https://i.pinimg.com/564x/f8/5e/d7/f85ed761a9a2fd504c33554075cec0ea.jpg" width="500px" />
- 
