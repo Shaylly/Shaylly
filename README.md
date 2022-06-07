@@ -15,15 +15,11 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  
  ### *🐱‍💻 My informations*
  
-![Metrics](https://metrics.lecoq.io/shaylly?template=classic&base.header=0&base.community=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
- </div>
- 
- ## *🐍 My commits*
- 
+![Metrics](https://metrics.lecoq.io/shaylly?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
+
  <div align="center">
- 
-  ![Snake animation](https://github.com/shaylly/shaylly/blob/output/github-contribution-grid-snake.svg)
  
 📌 My social networks 📌
 
