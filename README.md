@@ -8,14 +8,18 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  Well, I'm a person who likes to create different profiles that are beautiful and flashy in git hub, or any other platform that can make a beautiful profile, so you can see that I constantly update my profile, like now lol, whether to put something or take away.
  Learning English is also essential for me, as I'm Brazilian, but that's just a matter of time.
          
-📕 &nbsp;**Latest Blog Posts**
+# 📕 &nbsp;**Latest Blog Posts**
  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
  - [Git e Github na prática!](https://dev.to/shaylly/git-e-github-na-pratica-fdl)
  <!-- BLOG-POST-LIST:END -->         
  
+ # 🐱‍💻 My informations
+ 
 ![Metrics](https://metrics.lecoq.io/shaylly?template=classic&base.header=0&base.community=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
 
  </div>
+ 
+ # 🐍
  
  <div align="center">
  
