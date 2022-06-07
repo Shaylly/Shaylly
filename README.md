@@ -1,7 +1,7 @@
 <!-- <p align="center">
  My Perfil from do github
 </p>   -->
-# 👨‍💻 About me
+# 👋 Hi there!
  
 Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub profile.** Here you will see information about my profile. The idea of me wanting to be a programmer is very broad, because I love programming and I want to do that several, so I want to learn the basics until I become someone who knows how to program and do incredible things.
 
