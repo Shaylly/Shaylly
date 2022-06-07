@@ -12,10 +12,8 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
  - [Git e Github na prática!](https://dev.to/shaylly/git-e-github-na-pratica-fdl)
  <!-- BLOG-POST-LIST:END -->         
-
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-![Metrics](https://metrics.lecoq.io/shaylly?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
+ 
+![Metrics](https://metrics.lecoq.io/shaylly?template=classic&base.header=0&base.community=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
 
  </div>
  
