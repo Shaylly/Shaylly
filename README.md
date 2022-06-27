@@ -22,6 +22,3 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zwdmxomh4kyz6ykvziolculaeq&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
   
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-
- <img width=800 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=onestar&no-frame=true"/>
-</a>
