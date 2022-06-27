@@ -7,6 +7,8 @@
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=your-github-shaylly)
+
 # 👇 About me
  
   [Twitter](https://twitter.com/Juntpack) • [Dev.to](https://dev.to/shaylly) • [Reddit](https://www.reddit.com/user/Juntpack)
