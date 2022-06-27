@@ -17,7 +17,9 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  Well, I'm a person who likes to create different profiles that are beautiful and flashy in git hub, or any other platform that can make a beautiful profile, so you can see that I constantly update my profile, like now lol, whether to put something or take away.
  Learning English is also essential for me, as I'm Brazilian, but that's just a matter of time.
  
- <hr>
+<details>
+  <summary><b>✨more things</b></summary>
+  <br/>
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zwdmxomh4kyz6ykvziolculaeq&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
   
