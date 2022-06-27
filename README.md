@@ -4,10 +4,6 @@
 
 <div align="center">
 <img src="https://github.com/Shaylly/Shaylly/blob/main/header.png?raw=true" width="1000px" />
-
- |  Hello |
-| ---- |
-| World!!! |
  
 </div>
 
