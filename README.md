@@ -26,7 +26,3 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
 
  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shaylly&column=8&theme=onestar&no-frame=true"/>
 </a>
-
- ## Goodbye
-
- <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
