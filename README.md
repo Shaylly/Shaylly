@@ -18,7 +18,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  Learning English is also essential for me, as I'm Brazilian, but that's just a matter of time.
  
 <details>
-  <summary><b>👉More things</b></summary>
+  <summary><b>👉 More things</b></summary>
   <br/>
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zwdmxomh4kyz6ykvziolculaeq&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
