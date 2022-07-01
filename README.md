@@ -21,8 +21,6 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  [Twitter](https://twitter.com/Juntpack) • [Dev.to](https://dev.to/shaylly) • [Reddit](https://www.reddit.com/user/Juntpack)
  
  <hr>
- 
- - My Readme stats
    
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
    
