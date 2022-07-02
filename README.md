@@ -22,7 +22,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  
  <hr>
    
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=shaylly&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
    
    </div>
  
@@ -47,8 +47,8 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
 
 </div>
 <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Shaylly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Shaylly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <hr>
   
