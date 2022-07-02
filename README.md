@@ -16,7 +16,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
  Well, I'm a person who likes to create different profiles that are beautiful and flashy in git hub, or any other platform that can make a beautiful profile, so you can see that I constantly update my profile, like now lol, whether to put something or take away.
  Learning English is also essential for me, as I'm Brazilian, but that's just a matter of time.
  
- - My social network
+ - 🚀 My social network
  
  [Twitter](https://twitter.com/Juntpack) • [Dev.to](https://dev.to/shaylly) • [Reddit](https://www.reddit.com/user/Juntpack)
  
@@ -26,7 +26,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
    
    </div>
  
-- A code that I end up repeating and a lot...
+- 👨‍💻 A code that I end up repeating and a lot...
  
  ```<!DOCTYPE html>
 <html lang="en">
@@ -43,7 +43,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
 };
 ```
 
-- Programming languages I learned
+- 👑 Programming languages I learned
 
 </div>
 <div style="display: inline_block"><br>
@@ -54,7 +54,7 @@ Hello how are you? My name is Enzo, I'm 13 years old, **this is my Git Hhub prof
   
   - current moment
   
-     I'm studying about Python.
+    📚 I'm studying about Python.
      
      
      
